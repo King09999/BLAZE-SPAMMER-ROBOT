@@ -6,7 +6,7 @@ __________________________________
 ## 🚀 𝐃ερℓσү ση нεяσкυ 
 
 
-[![Deploy](https://telegra.ph/file/b1b3358ee6096d4750b82.jpg)](https://heroku.com/deploy?template=https://github.com/King09999/BLAZE-SPAMMER-ROBOT)
+[![Deploy](https://telegra.ph/file/b1b3358ee6096d4750b82.jpg)](https://heroku.com/deploy?template=https://github.com/King09999)
  
 __________________________________
 # [sтяιηg sεssιση](https://replit.com/@TCeReaLkiller/BLAZE-SPAMMER)
